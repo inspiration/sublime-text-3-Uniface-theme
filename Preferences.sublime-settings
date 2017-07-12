@@ -1,0 +1,19 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 1,
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/Uniface-Monokai.tmTheme",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"line_padding_top": 2,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"use_spaces": true
+}
